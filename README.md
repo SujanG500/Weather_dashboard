@@ -13,7 +13,7 @@ The dashboard provides interactive insights into weather patterns such as **temp
 
 ---
 
+![Weather Dashboard Previe](Weather.png)
+
 ## 🚀 Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+
