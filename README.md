@@ -15,5 +15,4 @@ The dashboard provides interactive insights into weather patterns such as **temp
 
 ![Weather Dashboard Previe](Weather.png)
 
-## 🚀 Getting Started
 
